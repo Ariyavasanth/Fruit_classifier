@@ -1,0 +1,67 @@
+# ======================
+# Python
+# ======================
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+*.pyo
+*.pyd
+*.log
+*.tmp
+*.swp
+
+# ======================
+# Virtual Environment
+# ======================
+venv/
+.env/
+.venv/
+ENV/
+env.bak/
+
+# ======================
+# Jupyter Notebook Checkpoints
+# ======================
+.ipynb_checkpoints/
+
+# ======================
+# Data and Models
+# ======================
+data/
+models/
+*.h5
+*.pt
+*.pth
+*.ckpt
+*.joblib
+*.pkl
+*.csv
+*.npz
+*.npy
+*.zip
+*.tar
+*.gz
+
+# ======================
+# Reports and Outputs
+# ======================
+reports/
+outputs/
+*.html
+
+# ======================
+# OS and Editor Files
+# ======================
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# ======================
+# Logs and Cache
+# ======================
+logs/
+cache/
+__cache__/
